@@ -9,7 +9,7 @@ driver = webdriver.Chrome(c)
 driver.get("http://web.whatsapp.com/")
 
 c  = input("Press any key after scanning the QR code")
-mes = r"Hello"
+mes = r"Will get back to you"
 while True:
 
 	try:
